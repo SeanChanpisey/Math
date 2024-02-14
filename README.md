@@ -1,4 +1,4 @@
-1.Click on test project 
+1.Click on TestProject 
 
 
 2.click on src 
